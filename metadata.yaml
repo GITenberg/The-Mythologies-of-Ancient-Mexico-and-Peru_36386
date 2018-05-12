@@ -1,0 +1,31 @@
+_repo: The-Mythologies-of-Ancient-Mexico-and-Peru_36386
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spence, Lewis
+    alias: Spence, James Lewis Thomas Chalmers
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '5707'
+    url: http://www.gutenberg.org/2009/agents/5707
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Spence
+description: ''
+gutenberg_issued: '2011-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36386'
+  lccn: 08008503
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F3401'
+- !lcsh 'Indian mythology -- Mexico'
+- !lcsh 'Indian mythology -- Peru'
+- !lcc 'F1201'
+title: The Mythologies of Ancient Mexico and Peru
+url: http://www.gutenberg.org/ebooks/36386
